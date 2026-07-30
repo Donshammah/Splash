@@ -63,7 +63,7 @@ body:before {
 }
 
 .splash-bg{
-  background-image:url(images/Rectangle\ 88@3x.png);
+  background-image:url(images/Rectangle 88@3x.png);
   background-size: cover;
   background-position: center center;
   background-repeat: repeat;
@@ -136,7 +136,7 @@ body, .splash_co--site-inner {
     margin-left: 40px;   /* Move menu closer to the logo */
 }
 .cover-v1{
-    background-image:url("/images/Rectangle 88.png");
+    background-image:url("images/Rectangle 88.png");
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -1264,7 +1264,7 @@ grid-template-columns:1fr;
 }
 
 .designs-section-head{
-  background-image: url(images/image\ 35.png);
+  background-image: url(images/image 35.png);
   width: 100%;
   height: 594px;
   display: block;
@@ -1313,7 +1313,7 @@ grid-template-columns:1fr;
 }
 
 .glammed-section-head{
-  background-image: url(images/Rectangle\ 87.png);
+  background-image: url(images/Rectangle 87.png);
   width: 100%;
   display: block;
   background-size: cover;
