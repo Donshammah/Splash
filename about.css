@@ -617,7 +617,7 @@ a, a:hover {
   left: 0;
   top: 0;
   margin-top: 10px;
-  background-image: url(/images/Rectangle\ 88.png);
+  background-image: url(images/Rectangle\ 88.png);
   -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
   padding-top: 5px;
@@ -696,7 +696,7 @@ a, a:hover {
   -webkit-transition: .3s all ease-out;
   -o-transition: .3s all ease-out;
   transition: .3s all ease-out;
-   background-image: url(/images/Rectangle\ 88.png);
+   background-image: url(images/Rectangle\ 88.png);
    background-position: center;
 }
  
