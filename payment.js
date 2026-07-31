@@ -12,5 +12,5 @@ submitBtn.addEventListener("click", function () {
 
     }
 
-    window.location.href = "/success.html";
+    window.location.href = "success.html";
 });
