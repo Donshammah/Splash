@@ -934,7 +934,7 @@ a, a:hover {
 }
 
 .style-header {
-    background-image: url(images/image\ 9.png);
+    background-image: url("images/image\ 9.png");
     background-size: cover;
     background-position: cover;
     background-repeat: no-repeat;
